@@ -8,4 +8,4 @@ replicas:
     count: 3
 images:
   - name: nginx
-    newTag: "1.31"
+    newTag: "doesnotexist"
